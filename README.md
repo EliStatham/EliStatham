@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliStatham，a student.
-- 👀 I’m interested in learning new things.I am interested in physics,computer,history and nature.
-- 🌱 I’m currently learning python latex.
+- 👀 I’m interested in learning new things,such as physics,computer,history.
+- 🌱 I’m currently learning python and latex.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
