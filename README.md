@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EliStatham，a student.
 - 👀 I’m interested in learning new things,such as physics,computer,history.
 - 🌱 I’m currently learning python and latex.
+
 Is it possible to establish a statistically based method for predicting the direction of a society?
 
 
