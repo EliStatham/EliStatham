@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @EliStatham，a student.
 - 👀 I’m interested in learning new things,such as physics,computer,history.
 - 🌱 I’m currently learning python and latex.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Is it possible to establish a statistically based method for predicting the direction of a society?
+
+
+
 
 <!---
 EliStatham/EliStatham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
